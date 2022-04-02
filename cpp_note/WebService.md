@@ -20,7 +20,7 @@ Simple Object Access Protocol（简单对象访问协议）是一个基于xml协
 
  #### SOAP消息格式
 
-SOAP消息对象包括：Envelope、Header、Body
+SOAP消息对象包括：Envelope、Header（可选）、Body、
 
 ### WSDL语法
 
